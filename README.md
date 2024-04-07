@@ -26,11 +26,9 @@ To run the various models as defined in architecture requires a GPU capable proc
 
 
 ## Technologies Used
-- Python - 3.11.5
-- Pandas - 2.1.4
+- Python - 3.10.12
+- Pandas - 2.0.3
 - Tensorflow - 
-- Sklearn - 1.2.2
-- Statmodels - 0.14.0
-- Seaborn - 0.12.2
+- Numpy - 1.25.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
